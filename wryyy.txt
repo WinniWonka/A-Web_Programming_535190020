@@ -1,0 +1,3 @@
+pada tanggal 10/31/2020, saya mencoba fungsi js untuk pertama kalinya.
+Sambil ditemani lagu Russian Hardbass menambah sandu suasana coding yang kelam ini.
+Jika anda melihat file ini, berarti saya sudah berhasil mencobanya.
